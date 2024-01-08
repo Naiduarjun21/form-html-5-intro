@@ -1,0 +1,12 @@
+nav>Ul>li{
+    display: inline;
+    text-decoration: none;
+    margin-right: 15px
+    ;
+}
+footer{
+    text-align: center;
+}
+header>section{
+     text-wrap: wrap;
+}
